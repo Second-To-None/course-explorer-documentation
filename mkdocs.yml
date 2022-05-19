@@ -3,7 +3,7 @@ site_url: https://documentation.course-explorer.com/
 nav:
   - Home: index.md
   - Documentation:
-    - Presence Courses: about.md
+    - Presence Courses: documentation/presence-course/index.md
 theme:
   name: material
   language: de
