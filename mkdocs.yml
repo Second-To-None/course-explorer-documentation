@@ -3,9 +3,12 @@ site_url: https://documentation.course-explorer.com/
 nav:
   - Home: index.md
   - Dokumentation:
-    - Präsenzkurse: documentation/presence-course/index.md
-      - Kategorien: documentation/presence-course/categories.md
-    - Onlinekurse: documentation/online-course/index.md
+    - Präsenzkurse: documentation/courses/presencecourses.md
+    - Kategorien: documentation/courses/categories.md
+    - Schlagwörter: documentation/courses/tags.md
+    - Standorte: documentation/courses/locations.md
+    - Extras: documentation/courses/features.md
+    - Onlinekurse: documentation/courses/onlinecourses.md
     - Benutzermanagement: documentation/user-management/index.md
     - Reiseantrag: documentation/travel-request/index.md
 

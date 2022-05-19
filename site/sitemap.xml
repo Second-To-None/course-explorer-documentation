@@ -11,17 +11,42 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://documentation.course-explorer.com/documentation/presence-course/</loc>
+         <loc>https://documentation.course-explorer.com/documentation/courses/categories/</loc>
          <lastmod>2022-05-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://documentation.course-explorer.com/documentation/presence-course/categories/</loc>
+         <loc>https://documentation.course-explorer.com/documentation/courses/features/</loc>
          <lastmod>2022-05-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://documentation.course-explorer.com/documentation/presence-course/tags/</loc>
+         <loc>https://documentation.course-explorer.com/documentation/courses/locations/</loc>
+         <lastmod>2022-05-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://documentation.course-explorer.com/documentation/courses/onlinecourses/</loc>
+         <lastmod>2022-05-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://documentation.course-explorer.com/documentation/courses/presencecourses/</loc>
+         <lastmod>2022-05-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://documentation.course-explorer.com/documentation/courses/tags/</loc>
+         <lastmod>2022-05-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://documentation.course-explorer.com/documentation/travel-request/</loc>
+         <lastmod>2022-05-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://documentation.course-explorer.com/documentation/user-management/</loc>
          <lastmod>2022-05-19</lastmod>
          <changefreq>daily</changefreq>
     </url>
