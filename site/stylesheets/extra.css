@@ -3,3 +3,11 @@
     --md-primary-fg-color--light: #4C61DF;
     --md-primary-fg-color--dark:  #190682;
 }
+
+.success {
+    color:rgb(4, 190, 66)
+}
+
+.danger {
+    color: red;
+}

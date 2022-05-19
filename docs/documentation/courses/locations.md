@@ -1,1 +1,0 @@
-# Standorte / Schulungsräume
