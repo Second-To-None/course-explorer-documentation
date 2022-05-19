@@ -5,6 +5,9 @@ nav:
   - Dokumentation:
     - Präsenzkurse: documentation/presence-course/index.md
     - Onlinekurse: documentation/online-course/index.md
+    - Benutzermanagement: documentation/user-management/index.md
+    - Reiseantrag: documentation/travel-request/index.md
+
 theme:
   name: material
   language: de
