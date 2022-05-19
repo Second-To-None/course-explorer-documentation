@@ -2,8 +2,9 @@ site_name: Course Explorer Documentation
 site_url: https://documentation.course-explorer.com/
 nav:
   - Home: index.md
-  - Documentation:
-    - Presence Courses: documentation/presence-course/index.md
+  - Dokumentation:
+    - Präsenzkurse: documentation/presence-course/index.md
+    - Onlinekurse: documentation/online-course/index.md
 theme:
   name: material
   language: de
